@@ -1,0 +1,10 @@
+{
+  "description": "Helps patients in the Philippines find nearby healthcare facilities, check services and availability, and plan their next steps while enabling hospital staff to share capacity updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
